@@ -4,8 +4,7 @@ app = Flask(__name__)
 
 import os
 import requests
-import random
-import string
+
 
 app = Flask(__name__)
 
