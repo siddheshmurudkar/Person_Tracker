@@ -1,3 +1,2 @@
 Flask
 Jinja2==2.7.3
-gunicorn==0.14.2
